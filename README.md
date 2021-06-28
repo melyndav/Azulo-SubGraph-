@@ -7,7 +7,7 @@ The purpose is show to show transparency of Azulo's trusts through usage data.
 Built by the [Azulo](https://azulo.app) team.
 
 ### Notes
-Azulo is built on Gnosis Safe. 
+Azulo is built using Gnosis Safe. 
 
 For more information see the [Gnosis Safe docs](https://gnosis-safe.readthedocs.io/en/latest/) and/or the [docs for The Graph](https://thegraph.com/docs/).
 
@@ -102,7 +102,3 @@ graph deploy --node https://api.thegraph.com/deploy/ --ipfs https://api.thegraph
   }
 }
 
-```
-## Copyright
-
-(c) 2021 Greg Jeanmart
